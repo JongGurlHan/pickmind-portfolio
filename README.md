@@ -15,6 +15,13 @@
 
 ---
 
+## Claude AI 활용
+
+이 프로젝트는 **Claude Code (Anthropic)** 를 핵심 개발 파트너로 활용해 설계·구현·문서화 전 과정을 진행했습니다.
+
+→ [AI 협업 개발 방식 상세 보기](docs/ai-development.md)
+
+---
 ## 주요 기능
 
 | 기능 | 설명 |
@@ -151,14 +158,6 @@ async complete(id: string) {
 ```
 
 > 전체 스니펫 → [`snippets/test-session-flow.ts`](snippets/test-session-flow.ts)
-
----
-
-## Claude AI 활용
-
-이 프로젝트는 **Claude Code (Anthropic)** 를 핵심 개발 파트너로 활용해 설계·구현·문서화 전 과정을 진행했습니다.
-
-→ [AI 협업 개발 방식 상세 보기](docs/ai-development.md)
 
 ---
 
